@@ -82,4 +82,4 @@ Medical Data Management System/
 For detailed code and step-by-step explanations, please refer to [the online document](https://xcn6367dhjzq.feishu.cn/docx/LmsjdYdquoT587x43rmcubz9nIg).
 
 ## License
-
+This project is licensed under the [MIT License](./LICENSE).
