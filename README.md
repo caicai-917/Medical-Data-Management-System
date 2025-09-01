@@ -1,3 +1,8 @@
+
+<img width="526" height="558" alt="91" src="https://github.com/user-attachments/assets/fe5ba72a-5828-4c3e-ad29-d2ade28de499" />
+<img width="1280" height="762" alt="911" src="https://github.com/user-attachments/assets/2289603f-4485-402c-92da-3bfd8a4d0b48" />
+<img width="1280" height="487" alt="912" src="https://github.com/user-attachments/assets/8483a486-020c-4beb-b248-7f0ae8631cea" />
+
 # Medical Data Management System
 
 ## Project Introduction
