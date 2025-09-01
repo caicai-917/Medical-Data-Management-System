@@ -22,35 +22,36 @@ This project is a medical data management system based on **Vue 3 + Node.js + Ex
 
 ## Project Structure
 ```
-Medical-Data-Management-System/
-├── .vscode/                      # VSCode related configuration folder
-├── medical-backend/              # Back-end project folder
-│   ├── node_modules/             # Dependency package directory
-│   ├── db.js                     # Database connection configuration file
-│   ├── app.js                    # Back-end main file with API interface definitions
-│   └── package.json              # Back-end project dependency and script configuration file
-├── medical-frontend/             # Front-end project folder
-│   ├── node_modules/             # Dependency package directory
-│   ├── public/                   # Public static resource directory
-│   ├── src/                      # Front-end source code directory
-│   │   ├── assets/               # Resource directory
-│   │   │   └── css/              # CSS style directory
+Medical Data Management System/
+├── .vscode/        # VSCode related configuration folder
+├── medical-backend/        # Backend project folder
+│   ├── node_modules/   # Dependency package directory
+│   ├── db.js           # Database connection configuration file
+│   ├── app.js          # Main backend file with API definitions
+│   └── package.json    # Backend project dependencies and script configuration file
+├── medical-frontend/        # Frontend project folder
+│   ├── node_modules/   # Dependency package directory
+│   ├── public/         # Public static resource directory
+│   ├── src/            # Frontend source code directory
+│   │   ├── assets/     # Resource directory
+│   │   │   └── css/    # CSS style directory
 │   │   │       └── tailwind.css  # Tailwind CSS entry style file
-│   │   ├── components/           # General component directory
-│   │   ├── router/               # Routing configuration directory
-│   │   │   └── index.js          # Routing configuration file
-│   │   ├── views/                # Page component directory
+│   │   ├── components/ # General component directory
+│   │   ├── router/     # Routing configuration directory
+│   │   │   └── index.js # Routing configuration file
+│   │   ├── views/      # Page component directory
 │   │   │   ├── LoginPage.vue     # Login page component
 │   │   │   ├── PatientDetail.vue # Patient detail page component
 │   │   │   ├── PatientList.vue   # Patient list page component
 │   │   │   └── UserProfile.vue   # User profile page component
-│   │   ├── App.vue               # Root component
-│   │   └── main.js               # Front-end entry file
-│   ├── tailwind.config.js        # Tailwind CSS configuration file
-│   ├── postcss.config.js         # PostCSS configuration file
-│   └── package.json              # Front-end project dependency and script configuration file
-├── .git/                         # Git version control related file directory
-└── README.md                     # Project description document
+│   │   ├── App.vue     # Root component
+│   │   └── main.js     # Frontend entry file
+│   ├── tailwind.config.js # Tailwind CSS configuration file
+│   ├── postcss.config.js  # PostCSS configuration file
+│   └── package.json    # Frontend project dependencies and script configuration file
+├── LICENSE               # License file
+├── README.md        # Project description document
+└── .git/            # Git version control related file directory
 ```
 
 ## Content Directory
@@ -79,3 +80,6 @@ Medical-Data-Management-System/
 
 ## Online Reading
 For detailed code and step-by-step explanations, please refer to [the online document](https://xcn6367dhjzq.feishu.cn/docx/LmsjdYdquoT587x43rmcubz9nIg).
+
+## License
+
